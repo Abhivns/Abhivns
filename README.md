@@ -1,5 +1,7 @@
 # 💫 About Me:
- I’m currently working on  <br>Building full-stack web applications using React, Node.js, and MongoDB. Improving my DSA skills by solving medium-level LeetCode problems.<br><br> I’m looking to collaborate on  <br>Open-source projects related to web development, backend systems, or real-world SaaS applications.<br><br>I’m looking for help with  <br>System design basics, scalable backend architecture, and advanced problem-solving strategies.<br><br> I’m currently learning  <br>Data Structures & Algorithms, Backend Development, REST APIs, and improving problem-solving consistency.<br><br> Ask me about  <br>Java, JavaScript, React, Node.js, MongoDB, and LeetCode problem solving.<br><br> Fun fact  <br>I enjoy turning real-world problems into working applications and continuously pushing my coding limits.
+I'm currently working on
+
+Learning Artificial Intelligence, Machine Learning, and Python while building AI-powered applications. I continue to strengthen my software engineering and problem-solving skills through hands-on projects.<br><br>I’m looking for help with  <br>System design basics, scalable backend architecture, and advanced problem-solving strategies.<br><br> I’m currently learning  <br>Data Structures & Algorithms, Backend Development, REST APIs, and improving problem-solving consistency.<br><br> Ask me about  <br>Java, JavaScript, React, Node.js, MongoDB, and LeetCode problem solving.<br><br> Fun fact  <br>I enjoy turning real-world problems into working applications and continuously pushing my coding limits.
 
 
 ## 🌐 Socials:
